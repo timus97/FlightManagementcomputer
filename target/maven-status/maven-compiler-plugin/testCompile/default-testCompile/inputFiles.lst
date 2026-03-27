@@ -1,0 +1,7 @@
+/testbed/zed-base/fmc-simulator/src/test/java/com/aviation/fmc/acars/AcarsMessageTest.java
+/testbed/zed-base/fmc-simulator/src/test/java/com/aviation/fmc/contracts/NavigationComputerImplTest.java
+/testbed/zed-base/fmc-simulator/src/test/java/com/aviation/fmc/contracts/PerformanceComputerImplTest.java
+/testbed/zed-base/fmc-simulator/src/test/java/com/aviation/fmc/contracts/GuidanceComputerImplTest.java
+/testbed/zed-base/fmc-simulator/src/test/java/com/aviation/fmc/acars/OooiEventHandlerTest.java
+/testbed/zed-base/fmc-simulator/src/test/java/com/aviation/fmc/acars/AircraftAcarsUnitTest.java
+/testbed/zed-base/fmc-simulator/src/test/java/com/aviation/fmc/acars/AcarsGroundStationTest.java
